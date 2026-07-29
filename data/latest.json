@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "report_date": "尚未更新",
+  "generated_at": "首次部署後由 GitHub Actions 自動產生",
+  "market": {
+    "bias": "等待首次更新",
+    "reason": "請執行 GitHub Actions：Build and Deploy War Room",
+    "risk": "—",
+    "tag": "未更新",
+    "tone": "neutral"
+  },
+  "futures": {
+    "foreign_net_oi": 0,
+    "trust_net_oi": 0,
+    "dealer_net_oi": 0,
+    "put_call_ratio": "—"
+  },
+  "long_candidates": [],
+  "reversal_watch": [],
+  "risks": [
+    "目前是安裝預設畫面，執行 Workflow 後才會下載官方公開資料。"
+  ],
+  "sources": {
+    "系統": {
+      "ok": false,
+      "note": "尚未執行首次更新"
+    }
+  }
+}

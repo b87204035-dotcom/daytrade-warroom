@@ -1,0 +1,17 @@
+{
+  "min_volume_shares": 2000000,
+  "min_price": 10,
+  "max_price": 1000,
+  "long_min_change_pct": 1.0,
+  "long_max_change_pct": 9.5,
+  "min_volume_ratio": 1.0,
+  "top_n": 20,
+  "daily_risk_limit_pct": 1.5,
+  "trade_risk_limit_pct": 0.5,
+  "rules": {
+    "limit_down_foreign_buy": true,
+    "limit_up_foreign_sell": true,
+    "margin_maintenance_below_130": true,
+    "volume_above_5day_average": true
+  }
+}

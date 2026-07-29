@@ -1,0 +1,62 @@
+[
+  {
+    "path": ".github/workflows/warroom.yml",
+    "bytes": 1247,
+    "sha256": "b0217cf7b62b1d473fb10859a0e573e06cb2090071bb3649ee1475d669b5a7ec"
+  },
+  {
+    "path": ".nojekyll",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "README.md",
+    "bytes": 1017,
+    "sha256": "4f4ace7f9c7494d938f2c2e719d83cd42d8da28e704006f0937d54c18bf57693"
+  },
+  {
+    "path": "app.js",
+    "bytes": 2744,
+    "sha256": "210989dca64d76ebba5a650c8bb5fe3afb0312a4bf72d000bde1243e50a18a1d"
+  },
+  {
+    "path": "config/strategy.json",
+    "bytes": 407,
+    "sha256": "de188e7b1e9e8110c364869052d2ce4d460b2222a7612ca39b6f84d8b906cc2a"
+  },
+  {
+    "path": "data/history/.gitkeep",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "data/latest.json",
+    "bytes": 689,
+    "sha256": "0e896e08d4a3b2e134183d75729bba03dc653abfe301b7b7c2460fa926c45e46"
+  },
+  {
+    "path": "index.html",
+    "bytes": 4006,
+    "sha256": "ad81b04eb701cb6c36d46a6c43522161af90c92e1d5cd344efc377e1614db770"
+  },
+  {
+    "path": "requirements.txt",
+    "bytes": 17,
+    "sha256": "4b8183101fd19f071771805a42a31fbb234a7961921fdb8b783a279755a1b5d5"
+  },
+  {
+    "path": "scripts/update_report.py",
+    "bytes": 6940,
+    "sha256": "42a8ba9003e56600c7c072731f33f5e53c09383b4d737cbc838688ce53c72263"
+  },
+  {
+    "path": "styles.css",
+    "bytes": 3310,
+    "sha256": "a9f89a0bbf117302f7999253d4268d795b28face4483b48af24aeba761069f9c"
+  },
+  {
+    "path": "tests/test_smoke.py",
+    "bytes": 365,
+    "sha256": "1538e3e02578ab56fc6a86462241a001613e9a925bc03aecd3d688e64eb1d710"
+  }
+]

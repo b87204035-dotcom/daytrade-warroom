@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#07111f">
+  <title>台指期貨股票｜當沖戰情室</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <p class="eyebrow">DAYTRADE WAR ROOM · VERSION 1.0</p>
+      <h1>台指期貨股票｜每日當沖戰報</h1>
+      <p id="updatedAt" class="muted">載入資料中…</p>
+    </div>
+    <div class="status"><span></span>自動更新</div>
+  </header>
+
+  <main>
+    <section class="hero-grid">
+      <article class="panel market-bias">
+        <div class="panel-title"><h2>今日作戰方向</h2><span id="marketTag" class="tag neutral">等待資料</span></div>
+        <div id="marketBias" class="big-call">—</div>
+        <p id="marketReason" class="muted">資料載入中</p>
+        <div class="risk-strip">
+          <div><small>建議風險</small><strong id="riskLevel">—</strong></div>
+          <div><small>單筆停損</small><strong>權益 0.5%</strong></div>
+          <div><small>單日停損</small><strong>權益 1.5%</strong></div>
+        </div>
+      </article>
+
+      <article class="panel">
+        <div class="panel-title"><h2>台指期籌碼</h2><span class="tag">TAIFEX</span></div>
+        <div class="metric-grid">
+          <div><small>外資未平倉淨額</small><strong id="foreignOI">—</strong></div>
+          <div><small>投信未平倉淨額</small><strong id="trustOI">—</strong></div>
+          <div><small>自營商未平倉淨額</small><strong id="dealerOI">—</strong></div>
+          <div><small>Put/Call Ratio</small><strong id="pcr">—</strong></div>
+        </div>
+      </article>
+    </section>
+
+    <section class="panel">
+      <div class="panel-title">
+        <h2>多方當沖候選</h2>
+        <span class="tag positive">量價＋法人</span>
+      </div>
+      <div class="table-wrap"><table>
+        <thead><tr><th>代號</th><th>名稱</th><th>收盤</th><th>漲跌幅</th><th>成交量</th><th>量比</th><th>外資</th><th>評分</th><th>觀察理由</th></tr></thead>
+        <tbody id="longRows"></tbody>
+      </table></div>
+    </section>
+
+    <section class="panel">
+      <div class="panel-title">
+        <h2>異常反轉雷達</h2>
+        <span class="tag warning">漲跌停＋外資反向</span>
+      </div>
+      <div class="table-wrap"><table>
+        <thead><tr><th>代號</th><th>名稱</th><th>類型</th><th>成交量</th><th>外資買賣超</th><th>提醒</th></tr></thead>
+        <tbody id="reversalRows"></tbody>
+      </table></div>
+    </section>
+
+    <section class="two-col">
+      <article class="panel">
+        <div class="panel-title"><h2>風險清單</h2><span class="tag danger">禁止追價</span></div>
+        <ul id="riskList" class="bullet-list"></ul>
+      </article>
+      <article class="panel">
+        <div class="panel-title"><h2>執行紀律</h2><span class="tag">固定規則</span></div>
+        <ol class="rules">
+          <li>只做成交量充足、點差合理的標的。</li>
+          <li>開盤前 5 分鐘不追價，等待方向確認。</li>
+          <li>進場前先決定停損，不攤平、不凹單。</li>
+          <li>連續兩筆停損，至少休息 30 分鐘。</li>
+          <li>達單日停損上限後停止交易。</li>
+        </ol>
+      </article>
+    </section>
+
+    <section class="panel">
+      <div class="panel-title"><h2>資料狀態</h2><span class="tag neutral">官方公開資料</span></div>
+      <div id="sourceStatus" class="source-status"></div>
+      <p class="disclaimer">本網站為市場資料整理與交易紀律工具，不保證獲利，也不是投資建議。自動資料若抓取失敗，頁面會保留上次成功結果並顯示狀態。</p>
+    </section>
+  </main>
+
+  <footer>Daytrade War Room v1.0 · GitHub Pages + GitHub Actions</footer>
+  <script src="app.js"></script>
+</body>
+</html>
