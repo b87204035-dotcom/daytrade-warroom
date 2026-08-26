@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "report_date": "2026-08-25",
-  "generated_at": "2026-08-25 16:01:50",
+  "generated_at": "2026-08-26 16:03:26",
   "market": {
     "bias": "偏空防守",
     "reason": "下跌家數占優，期貨外資部位未形成支撐。",
@@ -239,18 +239,17 @@
   ],
   "reversal_watch": [],
   "risks": [
-    "目前公開 API 未完整提供個股外資買賣超、融資維持率與五日均量，相關欄位不虛構。",
-    "漲停／跌停反向法人策略需接入逐股法人資料後才會自動列出。",
-    "盤後資料不等於隔日開盤方向，進場仍須看量價與停損。"
+    "本次官方行情抓取失敗，頁面保留上一次成功資料。",
+    "禁止將舊資料當成今日即時交易依據。"
   ],
   "sources": {
     "TWSE上市行情": {
-      "ok": true,
-      "note": "1365筆"
+      "ok": false,
+      "note": "Expecting value: line 1 column 1 (char 0)"
     },
     "TAIFEX期權籌碼": {
-      "ok": false,
-      "note": "PCR：Expecting value: line 1 column 1 (char 0)"
+      "ok": true,
+      "note": "API連線正常"
     }
   }
 }
