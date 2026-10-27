@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "report_date": "2026-10-26",
-  "generated_at": "2026-10-26 22:23:34",
+  "report_date": "2026-10-27",
+  "generated_at": "2026-10-27 21:20:45",
   "market": {
     "bias": "偏空防守",
     "reason": "下跌家數占優，期貨外資部位未形成支撐。",
@@ -249,8 +249,8 @@
       "note": "1368筆"
     },
     "TAIFEX期權籌碼": {
-      "ok": false,
-      "note": "PCR：Expecting value: line 1 column 1 (char 0)"
+      "ok": true,
+      "note": "API連線正常"
     }
   }
 }
