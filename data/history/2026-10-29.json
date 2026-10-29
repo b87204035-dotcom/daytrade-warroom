@@ -1,0 +1,256 @@
+{
+  "version": "1.0",
+  "report_date": "2026-10-29",
+  "generated_at": "2026-10-29 22:27:30",
+  "market": {
+    "bias": "偏多作戰",
+    "reason": "上漲家數占優，期貨外資部位未形成反向壓力。",
+    "risk": "中",
+    "tag": "偏多",
+    "tone": "positive"
+  },
+  "futures": {
+    "foreign_net_oi": 0,
+    "trust_net_oi": 0,
+    "dealer_net_oi": 0,
+    "put_call_ratio": "—"
+  },
+  "long_candidates": [
+    {
+      "code": "2408",
+      "name": "南亞科",
+      "close": 477.0,
+      "volume": 46448462,
+      "change_pct": 8.16,
+      "volume_ratio": "—",
+      "foreign_net": 0,
+      "score": 100,
+      "reason": "成交量達門檻、價格上漲；法人與五日均量待資料源補齊"
+    },
+    {
+      "code": "1303",
+      "name": "南亞",
+      "close": 319.0,
+      "volume": 89844955,
+      "change_pct": 7.23,
+      "volume_ratio": "—",
+      "foreign_net": 0,
+      "score": 96,
+      "reason": "成交量達門檻、價格上漲；法人與五日均量待資料源補齊"
+    },
+    {
+      "code": "6209",
+      "name": "今國光",
+      "close": 101.0,
+      "volume": 38796632,
+      "change_pct": 6.77,
+      "volume_ratio": "—",
+      "foreign_net": 0,
+      "score": 94,
+      "reason": "成交量達門檻、價格上漲；法人與五日均量待資料源補齊"
+    },
+    {
+      "code": "2492",
+      "name": "華新科",
+      "close": 398.0,
+      "volume": 26354249,
+      "change_pct": 6.85,
+      "volume_ratio": "—",
+      "foreign_net": 0,
+      "score": 94,
+      "reason": "成交量達門檻、價格上漲；法人與五日均量待資料源補齊"
+    },
+    {
+      "code": "3711",
+      "name": "日月光投控",
+      "close": 695.0,
+      "volume": 20317833,
+      "change_pct": 6.76,
+      "volume_ratio": "—",
+      "foreign_net": 0,
+      "score": 94,
+      "reason": "成交量達門檻、價格上漲；法人與五日均量待資料源補齊"
+    },
+    {
+      "code": "2409",
+      "name": "友達",
+      "close": 35.55,
+      "volume": 251643874,
+      "change_pct": 6.28,
+      "volume_ratio": "—",
+      "foreign_net": 0,
+      "score": 91,
+      "reason": "成交量達門檻、價格上漲；法人與五日均量待資料源補齊"
+    },
+    {
+      "code": "8039",
+      "name": "台虹",
+      "close": 272.0,
+      "volume": 17932823,
+      "change_pct": 6.46,
+      "volume_ratio": "—",
+      "foreign_net": 0,
+      "score": 90,
+      "reason": "成交量達門檻、價格上漲；法人與五日均量待資料源補齊"
+    },
+    {
+      "code": "6239",
+      "name": "力成",
+      "close": 272.5,
+      "volume": 14461015,
+      "change_pct": 7.07,
+      "volume_ratio": "—",
+      "foreign_net": 0,
+      "score": 90,
+      "reason": "成交量達門檻、價格上漲；法人與五日均量待資料源補齊"
+    },
+    {
+      "code": "4958",
+      "name": "臻鼎-KY",
+      "close": 550.0,
+      "volume": 19865905,
+      "change_pct": 5.77,
+      "volume_ratio": "—",
+      "foreign_net": 0,
+      "score": 89,
+      "reason": "成交量達門檻、價格上漲；法人與五日均量待資料源補齊"
+    },
+    {
+      "code": "2344",
+      "name": "華邦電",
+      "close": 172.0,
+      "volume": 70853471,
+      "change_pct": 5.52,
+      "volume_ratio": "—",
+      "foreign_net": 0,
+      "score": 88,
+      "reason": "成交量達門檻、價格上漲；法人與五日均量待資料源補齊"
+    },
+    {
+      "code": "3149",
+      "name": "正達",
+      "close": 72.5,
+      "volume": 5899082,
+      "change_pct": 9.02,
+      "volume_ratio": "—",
+      "foreign_net": 0,
+      "score": 86,
+      "reason": "成交量達門檻、價格上漲；法人與五日均量待資料源補齊"
+    },
+    {
+      "code": "2327",
+      "name": "國巨*",
+      "close": 547.0,
+      "volume": 26045958,
+      "change_pct": 4.99,
+      "volume_ratio": "—",
+      "foreign_net": 0,
+      "score": 85,
+      "reason": "成交量達門檻、價格上漲；法人與五日均量待資料源補齊"
+    },
+    {
+      "code": "3481",
+      "name": "群創",
+      "close": 48.45,
+      "volume": 80082127,
+      "change_pct": 4.76,
+      "volume_ratio": "—",
+      "foreign_net": 0,
+      "score": 84,
+      "reason": "成交量達門檻、價格上漲；法人與五日均量待資料源補齊"
+    },
+    {
+      "code": "6269",
+      "name": "台郡",
+      "close": 82.2,
+      "volume": 65748718,
+      "change_pct": 4.85,
+      "volume_ratio": "—",
+      "foreign_net": 0,
+      "score": 84,
+      "reason": "成交量達門檻、價格上漲；法人與五日均量待資料源補齊"
+    },
+    {
+      "code": "00992A",
+      "name": "主動群益科技創新",
+      "close": 17.24,
+      "volume": 41934678,
+      "change_pct": 4.8,
+      "volume_ratio": "—",
+      "foreign_net": 0,
+      "score": 84,
+      "reason": "成交量達門檻、價格上漲；法人與五日均量待資料源補齊"
+    },
+    {
+      "code": "00981A",
+      "name": "主動統一台股增長",
+      "close": 28.65,
+      "volume": 120661077,
+      "change_pct": 4.56,
+      "volume_ratio": "—",
+      "foreign_net": 0,
+      "score": 83,
+      "reason": "成交量達門檻、價格上漲；法人與五日均量待資料源補齊"
+    },
+    {
+      "code": "00991A",
+      "name": "主動復華未來50",
+      "close": 17.21,
+      "volume": 34473851,
+      "change_pct": 4.62,
+      "volume_ratio": "—",
+      "foreign_net": 0,
+      "score": 83,
+      "reason": "成交量達門檻、價格上漲；法人與五日均量待資料源補齊"
+    },
+    {
+      "code": "2363",
+      "name": "矽統",
+      "close": 55.7,
+      "volume": 5804739,
+      "change_pct": 7.53,
+      "volume_ratio": "—",
+      "foreign_net": 0,
+      "score": 83,
+      "reason": "成交量達門檻、價格上漲；法人與五日均量待資料源補齊"
+    },
+    {
+      "code": "6152",
+      "name": "百一",
+      "close": 18.5,
+      "volume": 2693388,
+      "change_pct": 8.19,
+      "volume_ratio": "—",
+      "foreign_net": 0,
+      "score": 83,
+      "reason": "成交量達門檻、價格上漲；法人與五日均量待資料源補齊"
+    },
+    {
+      "code": "2303",
+      "name": "聯電",
+      "close": 128.0,
+      "volume": 90788224,
+      "change_pct": 4.49,
+      "volume_ratio": "—",
+      "foreign_net": 0,
+      "score": 82,
+      "reason": "成交量達門檻、價格上漲；法人與五日均量待資料源補齊"
+    }
+  ],
+  "reversal_watch": [],
+  "risks": [
+    "目前公開 API 未完整提供個股外資買賣超、融資維持率與五日均量，相關欄位不虛構。",
+    "漲停／跌停反向法人策略需接入逐股法人資料後才會自動列出。",
+    "盤後資料不等於隔日開盤方向，進場仍須看量價與停損。"
+  ],
+  "sources": {
+    "TWSE上市行情": {
+      "ok": true,
+      "note": "1378筆"
+    },
+    "TAIFEX期權籌碼": {
+      "ok": false,
+      "note": "三大法人：Expecting value: line 1 column 1 (char 0)"
+    }
+  }
+}
