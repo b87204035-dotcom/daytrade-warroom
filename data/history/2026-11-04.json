@@ -1,0 +1,113 @@
+{
+  "version": "1.0",
+  "report_date": "2026-11-04",
+  "generated_at": "2026-11-04 23:31:12",
+  "market": {
+    "bias": "偏空防守",
+    "reason": "下跌家數占優，期貨外資部位未形成支撐。",
+    "risk": "高",
+    "tag": "偏空",
+    "tone": "danger"
+  },
+  "futures": {
+    "foreign_net_oi": 0,
+    "trust_net_oi": 0,
+    "dealer_net_oi": 0,
+    "put_call_ratio": "—"
+  },
+  "long_candidates": [
+    {
+      "code": "1802",
+      "name": "台玻",
+      "close": 67.7,
+      "volume": 301314439,
+      "change_pct": 6.28,
+      "volume_ratio": "—",
+      "foreign_net": 0,
+      "score": 91,
+      "reason": "成交量達門檻、價格上漲；法人與五日均量待資料源補齊"
+    },
+    {
+      "code": "4720",
+      "name": "德淵",
+      "close": 31.15,
+      "volume": 32517868,
+      "change_pct": 4.88,
+      "volume_ratio": "—",
+      "foreign_net": 0,
+      "score": 84,
+      "reason": "成交量達門檻、價格上漲；法人與五日均量待資料源補齊"
+    },
+    {
+      "code": "00632R",
+      "name": "元大台灣50反1",
+      "close": 10.52,
+      "volume": 170403994,
+      "change_pct": 4.06,
+      "volume_ratio": "—",
+      "foreign_net": 0,
+      "score": 80,
+      "reason": "成交量達門檻、價格上漲；法人與五日均量待資料源補齊"
+    },
+    {
+      "code": "2465",
+      "name": "麗臺",
+      "close": 114.0,
+      "volume": 32889346,
+      "change_pct": 1.79,
+      "volume_ratio": "—",
+      "foreign_net": 0,
+      "score": 69,
+      "reason": "成交量達門檻、價格上漲；法人與五日均量待資料源補齊"
+    },
+    {
+      "code": "2618",
+      "name": "長榮航",
+      "close": 43.7,
+      "volume": 33992695,
+      "change_pct": 1.27,
+      "volume_ratio": "—",
+      "foreign_net": 0,
+      "score": 66,
+      "reason": "成交量達門檻、價格上漲；法人與五日均量待資料源補齊"
+    },
+    {
+      "code": "2033",
+      "name": "佳大",
+      "close": 70.1,
+      "volume": 3091108,
+      "change_pct": 3.85,
+      "volume_ratio": "—",
+      "foreign_net": 0,
+      "score": 62,
+      "reason": "成交量達門檻、價格上漲；法人與五日均量待資料源補齊"
+    },
+    {
+      "code": "9910",
+      "name": "豐泰",
+      "close": 70.2,
+      "volume": 2057140,
+      "change_pct": 1.89,
+      "volume_ratio": "—",
+      "foreign_net": 0,
+      "score": 52,
+      "reason": "成交量達門檻、價格上漲；法人與五日均量待資料源補齊"
+    }
+  ],
+  "reversal_watch": [],
+  "risks": [
+    "目前公開 API 未完整提供個股外資買賣超、融資維持率與五日均量，相關欄位不虛構。",
+    "漲停／跌停反向法人策略需接入逐股法人資料後才會自動列出。",
+    "盤後資料不等於隔日開盤方向，進場仍須看量價與停損。"
+  ],
+  "sources": {
+    "TWSE上市行情": {
+      "ok": true,
+      "note": "1372筆"
+    },
+    "TAIFEX期權籌碼": {
+      "ok": false,
+      "note": "三大法人：Expecting value: line 1 column 1 (char 0)"
+    }
+  }
+}
