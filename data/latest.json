@@ -1,13 +1,13 @@
 {
   "version": "1.0",
-  "report_date": "2026-11-04",
-  "generated_at": "2026-11-04 23:31:12",
+  "report_date": "2026-11-05",
+  "generated_at": "2026-11-05 23:35:20",
   "market": {
-    "bias": "偏空防守",
-    "reason": "下跌家數占優，期貨外資部位未形成支撐。",
-    "risk": "高",
-    "tag": "偏空",
-    "tone": "danger"
+    "bias": "區間觀察",
+    "reason": "現貨廣度與期貨籌碼未形成一致方向，降低出手頻率。",
+    "risk": "中高",
+    "tag": "中性",
+    "tone": "neutral"
   },
   "futures": {
     "foreign_net_oi": 0,
@@ -17,43 +17,197 @@
   },
   "long_candidates": [
     {
-      "code": "1802",
-      "name": "台玻",
-      "close": 67.7,
-      "volume": 301314439,
-      "change_pct": 6.28,
-      "volume_ratio": "—",
-      "foreign_net": 0,
-      "score": 91,
-      "reason": "成交量達門檻、價格上漲；法人與五日均量待資料源補齊"
-    },
-    {
       "code": "4720",
       "name": "德淵",
-      "close": 31.15,
-      "volume": 32517868,
-      "change_pct": 4.88,
+      "close": 33.3,
+      "volume": 41936600,
+      "change_pct": 6.9,
       "volume_ratio": "—",
       "foreign_net": 0,
-      "score": 84,
+      "score": 94,
       "reason": "成交量達門檻、價格上漲；法人與五日均量待資料源補齊"
     },
     {
-      "code": "00632R",
-      "name": "元大台灣50反1",
-      "close": 10.52,
-      "volume": 170403994,
-      "change_pct": 4.06,
+      "code": "6672",
+      "name": "騰輝電子-KY",
+      "close": 529.0,
+      "volume": 20919385,
+      "change_pct": 5.38,
       "volume_ratio": "—",
       "foreign_net": 0,
-      "score": 80,
+      "score": 87,
       "reason": "成交量達門檻、價格上漲；法人與五日均量待資料源補齊"
     },
     {
-      "code": "2465",
-      "name": "麗臺",
-      "close": 114.0,
-      "volume": 32889346,
+      "code": "2328",
+      "name": "廣宇",
+      "close": 52.5,
+      "volume": 8585108,
+      "change_pct": 5.95,
+      "volume_ratio": "—",
+      "foreign_net": 0,
+      "score": 78,
+      "reason": "成交量達門檻、價格上漲；法人與五日均量待資料源補齊"
+    },
+    {
+      "code": "1711",
+      "name": "永光",
+      "close": 36.8,
+      "volume": 10219808,
+      "change_pct": 5.29,
+      "volume_ratio": "—",
+      "foreign_net": 0,
+      "score": 77,
+      "reason": "成交量達門檻、價格上漲；法人與五日均量待資料源補齊"
+    },
+    {
+      "code": "2406",
+      "name": "國碩",
+      "close": 28.6,
+      "volume": 4468266,
+      "change_pct": 6.52,
+      "volume_ratio": "—",
+      "foreign_net": 0,
+      "score": 77,
+      "reason": "成交量達門檻、價格上漲；法人與五日均量待資料源補齊"
+    },
+    {
+      "code": "3605",
+      "name": "宏致",
+      "close": 160.0,
+      "volume": 10259165,
+      "change_pct": 4.92,
+      "volume_ratio": "—",
+      "foreign_net": 0,
+      "score": 75,
+      "reason": "成交量達門檻、價格上漲；法人與五日均量待資料源補齊"
+    },
+    {
+      "code": "6505",
+      "name": "台塑化",
+      "close": 97.6,
+      "volume": 21050906,
+      "change_pct": 2.85,
+      "volume_ratio": "—",
+      "foreign_net": 0,
+      "score": 74,
+      "reason": "成交量達門檻、價格上漲；法人與五日均量待資料源補齊"
+    },
+    {
+      "code": "1714",
+      "name": "和桐",
+      "close": 17.05,
+      "volume": 17576461,
+      "change_pct": 3.33,
+      "volume_ratio": "—",
+      "foreign_net": 0,
+      "score": 74,
+      "reason": "成交量達門檻、價格上漲；法人與五日均量待資料源補齊"
+    },
+    {
+      "code": "3167",
+      "name": "大量",
+      "close": 863.0,
+      "volume": 8017474,
+      "change_pct": 5.12,
+      "volume_ratio": "—",
+      "foreign_net": 0,
+      "score": 74,
+      "reason": "成交量達門檻、價格上漲；法人與五日均量待資料源補齊"
+    },
+    {
+      "code": "6962",
+      "name": "奕力-KY",
+      "close": 30.45,
+      "volume": 4935564,
+      "change_pct": 5.73,
+      "volume_ratio": "—",
+      "foreign_net": 0,
+      "score": 74,
+      "reason": "成交量達門檻、價格上漲；法人與五日均量待資料源補齊"
+    },
+    {
+      "code": "2303",
+      "name": "聯電",
+      "close": 105.5,
+      "volume": 160039980,
+      "change_pct": 2.43,
+      "volume_ratio": "—",
+      "foreign_net": 0,
+      "score": 72,
+      "reason": "成交量達門檻、價格上漲；法人與五日均量待資料源補齊"
+    },
+    {
+      "code": "4927",
+      "name": "泰鼎-KY",
+      "close": 50.3,
+      "volume": 9612201,
+      "change_pct": 4.47,
+      "volume_ratio": "—",
+      "foreign_net": 0,
+      "score": 72,
+      "reason": "成交量達門檻、價格上漲；法人與五日均量待資料源補齊"
+    },
+    {
+      "code": "6689",
+      "name": "伊雲谷",
+      "close": 76.2,
+      "volume": 4110379,
+      "change_pct": 5.39,
+      "volume_ratio": "—",
+      "foreign_net": 0,
+      "score": 71,
+      "reason": "成交量達門檻、價格上漲；法人與五日均量待資料源補齊"
+    },
+    {
+      "code": "1303",
+      "name": "南亞",
+      "close": 276.5,
+      "volume": 119222395,
+      "change_pct": 2.03,
+      "volume_ratio": "—",
+      "foreign_net": 0,
+      "score": 70,
+      "reason": "成交量達門檻、價格上漲；法人與五日均量待資料源補齊"
+    },
+    {
+      "code": "6213",
+      "name": "聯茂",
+      "close": 612.0,
+      "volume": 42885910,
+      "change_pct": 2.0,
+      "volume_ratio": "—",
+      "foreign_net": 0,
+      "score": 70,
+      "reason": "成交量達門檻、價格上漲；法人與五日均量待資料源補齊"
+    },
+    {
+      "code": "00637L",
+      "name": "元大滬深300正2",
+      "close": 16.13,
+      "volume": 21015205,
+      "change_pct": 2.09,
+      "volume_ratio": "—",
+      "foreign_net": 0,
+      "score": 70,
+      "reason": "成交量達門檻、價格上漲；法人與五日均量待資料源補齊"
+    },
+    {
+      "code": "3049",
+      "name": "精金",
+      "close": 11.3,
+      "volume": 4456702,
+      "change_pct": 5.12,
+      "volume_ratio": "—",
+      "foreign_net": 0,
+      "score": 70,
+      "reason": "成交量達門檻、價格上漲；法人與五日均量待資料源補齊"
+    },
+    {
+      "code": "3711",
+      "name": "日月光投控",
+      "close": 627.0,
+      "volume": 32020635,
       "change_pct": 1.79,
       "volume_ratio": "—",
       "foreign_net": 0,
@@ -61,36 +215,25 @@
       "reason": "成交量達門檻、價格上漲；法人與五日均量待資料源補齊"
     },
     {
-      "code": "2618",
-      "name": "長榮航",
-      "close": 43.7,
-      "volume": 33992695,
-      "change_pct": 1.27,
+      "code": "9933",
+      "name": "中鼎",
+      "close": 47.95,
+      "volume": 11171922,
+      "change_pct": 3.56,
       "volume_ratio": "—",
       "foreign_net": 0,
-      "score": 66,
+      "score": 69,
       "reason": "成交量達門檻、價格上漲；法人與五日均量待資料源補齊"
     },
     {
-      "code": "2033",
-      "name": "佳大",
-      "close": 70.1,
-      "volume": 3091108,
-      "change_pct": 3.85,
+      "code": "00830",
+      "name": "國泰費城半導體",
+      "close": 76.8,
+      "volume": 19844134,
+      "change_pct": 1.72,
       "volume_ratio": "—",
       "foreign_net": 0,
-      "score": 62,
-      "reason": "成交量達門檻、價格上漲；法人與五日均量待資料源補齊"
-    },
-    {
-      "code": "9910",
-      "name": "豐泰",
-      "close": 70.2,
-      "volume": 2057140,
-      "change_pct": 1.89,
-      "volume_ratio": "—",
-      "foreign_net": 0,
-      "score": 52,
+      "score": 68,
       "reason": "成交量達門檻、價格上漲；法人與五日均量待資料源補齊"
     }
   ],
@@ -103,7 +246,7 @@
   "sources": {
     "TWSE上市行情": {
       "ok": true,
-      "note": "1372筆"
+      "note": "1383筆"
     },
     "TAIFEX期權籌碼": {
       "ok": false,
