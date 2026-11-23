@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "report_date": "2026-11-21",
-  "generated_at": "2026-11-21 00:13:32",
+  "report_date": "2026-11-24",
+  "generated_at": "2026-11-24 03:18:50",
   "market": {
     "bias": "偏空防守",
     "reason": "下跌家數占優，期貨外資部位未形成支撐。",
@@ -19,78 +19,23 @@
     {
       "code": "00632R",
       "name": "元大台灣50反1",
-      "close": 11.68,
-      "volume": 353304712,
-      "change_pct": 4.38,
+      "close": 12.52,
+      "volume": 579269687,
+      "change_pct": 7.19,
       "volume_ratio": "—",
       "foreign_net": 0,
-      "score": 82,
+      "score": 96,
       "reason": "成交量達門檻、價格上漲；法人與五日均量待資料源補齊"
     },
     {
-      "code": "6782",
-      "name": "視陽",
-      "close": 290.5,
-      "volume": 2160595,
-      "change_pct": 9.01,
+      "code": "7788",
+      "name": "松川精密",
+      "close": 180.5,
+      "volume": 6837457,
+      "change_pct": 3.74,
       "volume_ratio": "—",
       "foreign_net": 0,
-      "score": 82,
-      "reason": "成交量達門檻、價格上漲；法人與五日均量待資料源補齊"
-    },
-    {
-      "code": "00673R",
-      "name": "期元大S&P原油反1",
-      "close": 11.41,
-      "volume": 46752663,
-      "change_pct": 1.88,
-      "volume_ratio": "—",
-      "foreign_net": 0,
-      "score": 69,
-      "reason": "成交量達門檻、價格上漲；法人與五日均量待資料源補齊"
-    },
-    {
-      "code": "2886",
-      "name": "兆豐金",
-      "close": 53.4,
-      "volume": 68837469,
-      "change_pct": 1.52,
-      "volume_ratio": "—",
-      "foreign_net": 0,
-      "score": 68,
-      "reason": "成交量達門檻、價格上漲；法人與五日均量待資料源補齊"
-    },
-    {
-      "code": "2880",
-      "name": "華南金",
-      "close": 48.85,
-      "volume": 17297423,
-      "change_pct": 1.35,
-      "volume_ratio": "—",
-      "foreign_net": 0,
-      "score": 64,
-      "reason": "成交量達門檻、價格上漲；法人與五日均量待資料源補齊"
-    },
-    {
-      "code": "7765",
-      "name": "中華資安",
-      "close": 268.0,
-      "volume": 4139629,
-      "change_pct": 1.9,
-      "volume_ratio": "—",
-      "foreign_net": 0,
-      "score": 54,
-      "reason": "成交量達門檻、價格上漲；法人與五日均量待資料源補齊"
-    },
-    {
-      "code": "2347",
-      "name": "聯強",
-      "close": 74.3,
-      "volume": 6040398,
-      "change_pct": 1.09,
-      "volume_ratio": "—",
-      "foreign_net": 0,
-      "score": 51,
+      "score": 66,
       "reason": "成交量達門檻、價格上漲；法人與五日均量待資料源補齊"
     }
   ],
@@ -103,7 +48,7 @@
   "sources": {
     "TWSE上市行情": {
       "ok": true,
-      "note": "1382筆"
+      "note": "1384筆"
     },
     "TAIFEX期權籌碼": {
       "ok": true,
